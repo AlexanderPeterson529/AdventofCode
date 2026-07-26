@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{24b7cc7f-d3a8-4a66-bd24-274b564a5f2a}</ProjectGuid>
-    <RootNamespace>Day1challenges</RootNamespace>
+    <ProjectGuid>{6ccd283d-5f17-4093-ba89-78054d50d49d}</ProjectGuid>
+    <RootNamespace>Day8challenges</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Day1challenge1Password.cpp" />
+    <ClCompile Include="..\Day8challengesPlayground.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
